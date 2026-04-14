@@ -1,16 +1,20 @@
-## Hi there 👋
+# Julian Gonzalez
 
-<!--
-**JulianEmiro/JulianEmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Desarrollador en formación
+- 🌐 Desarrollo apps web en React
+- 📱Actualmente interesado y aprendiendo React Native
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- React
+- Node.js
+- JavaScript
+- MySQL
+- React Native
+
+---
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
